@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import MergeExcel from './MergeExcel';
-import MergeExcelHtml from './MergeExcelHtml';
+import MergeExcel from './MergeExcel/MergeExcel';
+import MergeExcelHtml from './MergeExcel/MergeExcelHtml';
 
 
 function App() {
