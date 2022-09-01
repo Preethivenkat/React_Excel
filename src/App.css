@@ -27,6 +27,19 @@
 .App-link {
   color: #61dafb;
 }
+.tableData table , th, td {
+  border: 1px solid #fff;
+  border-collapse: collapse;
+}
+.tableData table, th, td  {
+  padding: 5px 5px
+}
+button#test-table-xls-button {
+  padding: 6px 20px;
+  font-size: 14px;
+  background: blue;
+  color: #fff;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +48,6 @@
   to {
     transform: rotate(360deg);
   }
+
+
 }
